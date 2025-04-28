@@ -1,0 +1,18 @@
+[submodule "Auth-Service"]
+	path = Auth-Service
+	url = https://github.com/Green-Pulse/Auth-Service
+[submodule "User-Management-Service"]
+	path = User-Management-Service
+	url = https://github.com/Green-Pulse/User-Management-Service
+[submodule "Data_Ingestion_Service"]
+	path = Data_Ingestion_Service
+	url = https://github.com/Green-Pulse/Data_Ingestion_Service
+[submodule "Notification-Service"]
+	path = Notification-Service
+	url = https://github.com/Green-Pulse/Notification-Service
+[submodule "AI-Analytics-Service"]
+	path = AI-Analytics-Service
+	url = https://github.com/Green-Pulse/AI-Analytics-Service
+[submodule "Reporting-Service"]
+	path = Reporting-Service
+	url = https://github.com/Green-Pulse/Reporting-Service
